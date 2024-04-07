@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/ozware-2/main/GodOfFixes.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PawsThePaw/Plutonium.Utilities/main/EzFix.lua", true))()
